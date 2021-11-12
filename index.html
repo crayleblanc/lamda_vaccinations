@@ -8,8 +8,6 @@
 	<body>
 		<script type="text/javascript" src="jquery.min.js"></script>
 		<script src="chart.min.js"></script>
-		<script type="text/javascript" src="jsonFileLister.php"></script>
-		<script src = "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js">
         </script>
 
 		<div>
@@ -67,6 +65,35 @@
 			    });
 			    return json;
 			})();
+			
+			//normally the names of these files would be provided by a php file, but github doesn't support php files
+			//this is a temporary fix until I can find a better way to get the names of all the json files
+			var jsonFiles= [
+				"0_March_1_2021",
+				"1_March_15_2021",
+				"2_March_29_2021",
+				"3_April_5_2021",
+				"4_April_12_2021",
+				"5_April_19_2021",
+				"6_April_26_2021",
+				"7_May_3_2021",
+				"8_May_10_2021",
+				"9_May_17_2021",
+				"10_May_24_2021",
+				"11_June_7_2021",
+				"12_June_14_2021",
+				"13_June_21_2021",
+				"14_June_28_2021",
+				"15_July_6_2021",
+				"16_July_19_2021",
+				"17_August_2_2021",
+				"18_August_16_2021",
+				"19_September_7_2021",
+				"20_September_20_2021",
+				"21_October_4_2021",
+				"22_October_18_2021",
+				"23_November_1_2021"
+			]
 
 			//for each of the names in the json_file array, open that file and append the data contained within to the jsonList array
 			jsonFiles.forEach(function(json_file){
