@@ -1,0 +1,461 @@
+{
+   "Alabama": {
+      "White": 0.654,
+      "Black": 0.265,
+      "Hispanic": 0.044,
+      "Asian": 0.014,
+      "Native American": 0.004,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.019
+   },
+   "Alaska": {
+      "White": 0.6,
+      "Black": 0.022,
+      "Hispanic": 0.07,
+      "Asian": 0.06,
+      "Native American": 0.151,
+      "Pacific Islander": 0.015,
+      "Multiple Races": 0.083
+   },
+   "Arizona": {
+      "White": 0.542,
+      "Black": 0.043,
+      "Hispanic": 0.318,
+      "Asian": 0.033,
+      "Native American": 0.039,
+      "Pacific Islander": 0.002,
+      "Multiple Races": 0.024
+   },
+   "Arkansas": {
+      "White": 0.721,
+      "Black": 0.152,
+      "Hispanic": 0.078,
+      "Asian": 0.016,
+      "Native American": 0.006,
+      "Pacific Islander": 0.004,
+      "Multiple Races": 0.024
+   },
+   "California": {
+      "White": 0.364,
+      "Black": 0.053,
+      "Hispanic": 0.395,
+      "Asian": 0.147,
+      "Native American": 0.004,
+      "Pacific Islander": 0.004,
+      "Multiple Races": 0.033
+   },
+   "Colorado": {
+      "White": 0.678,
+      "Black": 0.038,
+      "Hispanic": 0.218,
+      "Asian": 0.032,
+      "Native American": 0.005,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.028
+   },
+   "Connecticut": {
+      "White": 0.657,
+      "Black": 0.1,
+      "Hispanic": 0.169,
+      "Asian": 0.046,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.026
+   },
+   "Delaware": {
+      "White": 0.614,
+      "Black": 0.218,
+      "Hispanic": 0.097,
+      "Asian": 0.039,
+      "Native American": 0.003,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.028
+   },
+   "District of Columbia": {
+      "White": 0.367,
+      "Black": 0.45,
+      "Hispanic": 0.112,
+      "Asian": 0.037,
+      "Native American": 0.003,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.031
+   },
+   "Florida": {
+      "White": 0.53,
+      "Black": 0.15,
+      "Hispanic": 0.266,
+      "Asian": 0.027,
+      "Native American": 0.002,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.024
+   },
+   "Georgia": {
+      "White": 0.52,
+      "Black": 0.313,
+      "Hispanic": 0.098,
+      "Asian": 0.041,
+      "Native American": 0.002,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.025
+   },
+   "Hawaii": {
+      "White": 0.204,
+      "Black": 0.012,
+      "Hispanic": 0.103,
+      "Asian": 0.394,
+      "Native American": 0.001,
+      "Pacific Islander": 0.102,
+      "Multiple Races": 0.184
+   },
+   "Idaho": {
+      "White": 0.816,
+      "Black": 0.007,
+      "Hispanic": 0.129,
+      "Asian": 0.012,
+      "Native American": 0.009,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.026
+   },
+   "Illinois": {
+      "White": 0.609,
+      "Black": 0.136,
+      "Hispanic": 0.176,
+      "Asian": 0.056,
+      "Native American": 0.001,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.022
+   },
+   "Indiana": {
+      "White": 0.786,
+      "Black": 0.092,
+      "Hispanic": 0.072,
+      "Asian": 0.024,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.023
+   },
+   "Iowa": {
+      "White": 0.853,
+      "Black": 0.039,
+      "Hispanic": 0.063,
+      "Asian": 0.023,
+      "Native American": 0.003,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.019
+   },
+   "Kansas": {
+      "White": 0.757,
+      "Black": 0.055,
+      "Hispanic": 0.122,
+      "Asian": 0.028,
+      "Native American": 0.006,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.032
+   },
+   "Kentucky": {
+      "White": 0.845,
+      "Black": 0.08,
+      "Hispanic": 0.037,
+      "Asian": 0.016,
+      "Native American": 0.001,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.02
+   },
+   "Louisiana": {
+      "White": 0.588,
+      "Black": 0.319,
+      "Hispanic": 0.052,
+      "Asian": 0.017,
+      "Native American": 0.005,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.019
+   },
+   "Maine": {
+      "White": 0.932,
+      "Black": 0.014,
+      "Hispanic": 0.017,
+      "Asian": 0.011,
+      "Native American": 0.007,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.019
+   },
+   "Maryland": {
+      "White": 0.499,
+      "Black": 0.296,
+      "Hispanic": 0.106,
+      "Asian": 0.064,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.032
+   },
+   "Massachusetts": {
+      "White": 0.705,
+      "Black": 0.07,
+      "Hispanic": 0.124,
+      "Asian": 0.067,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.032
+   },
+   "Michigan": {
+      "White": 0.749,
+      "Black": 0.134,
+      "Hispanic": 0.053,
+      "Asian": 0.032,
+      "Native American": 0.005,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.027
+   },
+   "Minnesota": {
+      "White": 0.791,
+      "Black": 0.064,
+      "Hispanic": 0.056,
+      "Asian": 0.049,
+      "Native American": 0.009,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.03
+   },
+   "Mississippi": {
+      "White": 0.566,
+      "Black": 0.376,
+      "Hispanic": 0.03,
+      "Asian": 0.01,
+      "Native American": 0.004,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.014
+   },
+   "Missouri": {
+      "White": 0.794,
+      "Black": 0.112,
+      "Hispanic": 0.043,
+      "Asian": 0.021,
+      "Native American": 0.004,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.026
+   },
+   "Montana": {
+      "White": 0.861,
+      "Black": 0.006,
+      "Hispanic": 0.037,
+      "Asian": 0.008,
+      "Native American": 0.061,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.028
+   },
+   "Nebraska": {
+      "White": 0.785,
+      "Black": 0.048,
+      "Hispanic": 0.113,
+      "Asian": 0.024,
+      "Native American": 0.008,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.021
+   },
+   "Nevada": {
+      "White": 0.478,
+      "Black": 0.092,
+      "Hispanic": 0.293,
+      "Asian": 0.085,
+      "Native American": 0.009,
+      "Pacific Islander": 0.006,
+      "Multiple Races": 0.037
+   },
+   "New Hampshire": {
+      "White": 0.898,
+      "Black": 0.013,
+      "Hispanic": 0.039,
+      "Asian": 0.026,
+      "Native American": 0,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.021
+   },
+   "New Jersey": {
+      "White": 0.545,
+      "Black": 0.124,
+      "Hispanic": 0.21,
+      "Asian": 0.096,
+      "Native American": 0.001,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.024
+   },
+   "New Mexico": {
+      "White": 0.367,
+      "Black": 0.017,
+      "Hispanic": 0.495,
+      "Asian": 0.016,
+      "Native American": 0.087,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.018
+   },
+   "New York": {
+      "White": 0.552,
+      "Black": 0.14,
+      "Hispanic": 0.193,
+      "Asian": 0.086,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.027
+   },
+   "North Carolina": {
+      "White": 0.627,
+      "Black": 0.209,
+      "Hispanic": 0.097,
+      "Asian": 0.029,
+      "Native American": 0.011,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.026
+   },
+   "North Dakota": {
+      "White": 0.841,
+      "Black": 0.024,
+      "Hispanic": 0.04,
+      "Asian": 0.014,
+      "Native American": 0.052,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.026
+   },
+   "Ohio": {
+      "White": 0.786,
+      "Black": 0.122,
+      "Hispanic": 0.04,
+      "Asian": 0.023,
+      "Native American": 0.001,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.028
+   },
+   "Oklahoma": {
+      "White": 0.65,
+      "Black": 0.069,
+      "Hispanic": 0.111,
+      "Asian": 0.021,
+      "Native American": 0.077,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.071
+   },
+   "Oregon": {
+      "White": 0.75,
+      "Black": 0.018,
+      "Hispanic": 0.134,
+      "Asian": 0.047,
+      "Native American": 0.009,
+      "Pacific Islander": 0.003,
+      "Multiple Races": 0.04
+   },
+   "Pennsylvania": {
+      "White": 0.76,
+      "Black": 0.104,
+      "Hispanic": 0.078,
+      "Asian": 0.035,
+      "Native American": 0.001,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.023
+   },
+   "Rhode Island": {
+      "White": 0.705,
+      "Black": 0.059,
+      "Hispanic": 0.166,
+      "Asian": 0.033,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.033
+   },
+   "South Carolina": {
+      "White": 0.637,
+      "Black": 0.262,
+      "Hispanic": 0.057,
+      "Asian": 0.017,
+      "Native American": 0.003,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.022
+   },
+   "South Dakota": {
+      "White": 0.819,
+      "Black": 0.022,
+      "Hispanic": 0.037,
+      "Asian": 0.013,
+      "Native American": 0.084,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.024
+   },
+   "Tennessee": {
+      "White": 0.736,
+      "Black": 0.164,
+      "Hispanic": 0.057,
+      "Asian": 0.018,
+      "Native American": 0.003,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.022
+   },
+   "Texas": {
+      "White": 0.411,
+      "Black": 0.117,
+      "Hispanic": 0.4,
+      "Asian": 0.05,
+      "Native American": 0.003,
+      "Pacific Islander": 0.001,
+      "Multiple Races": 0.019
+   },
+   "Utah": {
+      "White": 0.778,
+      "Black": 0.01,
+      "Hispanic": 0.144,
+      "Asian": 0.023,
+      "Native American": 0.01,
+      "Pacific Islander": 0.008,
+      "Multiple Races": 0.027
+   },
+   "Vermont": {
+      "White": 0.928,
+      "Black": 0.011,
+      "Hispanic": 0.018,
+      "Asian": 0.016,
+      "Native American": 0.007,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.02
+   },
+   "Virginia": {
+      "White": 0.613,
+      "Black": 0.189,
+      "Hispanic": 0.096,
+      "Asian": 0.067,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.033
+   },
+   "Washington": {
+      "White": 0.675,
+      "Black": 0.038,
+      "Hispanic": 0.13,
+      "Asian": 0.089,
+      "Native American": 0.011,
+      "Pacific Islander": 0.006,
+      "Multiple Races": 0.05
+   },
+   "West Virginia": {
+      "White": 0.925,
+      "Black": 0.032,
+      "Hispanic": 0.014,
+      "Asian": 0.008,
+      "Native American": 0.002,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.018
+   },
+   "Wisconsin": {
+      "White": 0.811,
+      "Black": 0.062,
+      "Hispanic": 0.071,
+      "Asian": 0.03,
+      "Native American": 0.007,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.02
+   },
+   "Wyoming": {
+      "White": 0.838,
+      "Black": 0.01,
+      "Hispanic": 0.101,
+      "Asian": 0.006,
+      "Native American": 0.022,
+      "Pacific Islander": 0,
+      "Multiple Races": 0.021
+   }
+}
